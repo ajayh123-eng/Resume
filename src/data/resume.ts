@@ -6,7 +6,7 @@ export const resumeData = {
     phone: "+91-9986284435",
     location: "Bengaluru, Karnataka, India",
     linkedin: "linkedin.com/in/ajay-h-ba994394",
-    website: "marketinfoind.com",
+    website: "resume-six-gilt-99.vercel.app",
     github: "github.com/ajayh123-eng"
   },
   summary: "Results-driven Service Desk Engineer with 3+ years of experience providing L1/L2 IT support for enterprise clients across ANZ and global markets. Proven expertise in troubleshooting Microsoft 365, VPN, network issues, hardware/software problems, and managing incident lifecycles through ServiceNow. Strong track record of maintaining SLA compliance, achieving First Call Resolution targets, and delivering excellent customer service. Self-taught technical enthusiast who built and deployed a full-stack financial news platform independently using modern web technologies. Technical background in Electrical & Electronics Engineering with additional skills in data analytics, SQL, and emerging technologies.",
