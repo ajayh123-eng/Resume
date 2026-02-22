@@ -3,13 +3,13 @@ export const resumeData = {
   title: "Service Desk Engineer | IT Support Specialist | Technical Problem Solver",
   contact: {
     email: "ajayh123@gmail.com",
-    phone: "+91-9986284435",
+    phone: "+91-9591238610",
     location: "Bengaluru, Karnataka, India",
     linkedin: "linkedin.com/in/ajay-h-ba994394",
-    website: "resume-six-gilt-99.vercel.app",
+    website: "marketinfoind.com",
     github: "github.com/ajayh123-eng"
   },
-  summary: "Results-driven Service Desk Engineer with 3+ years of experience providing L1/L2 IT support for enterprise clients across ANZ and global markets. Proven expertise in troubleshooting Microsoft 365, VPN, network issues, hardware/software problems, and managing incident lifecycles through ServiceNow. Strong track record of maintaining SLA compliance, achieving First Call Resolution targets, and delivering excellent customer service. Self-taught technical enthusiast who built and deployed a full-stack financial news platform independently using modern web technologies. Technical background in Electrical & Electronics Engineering with additional skills in data analytics, SQL, and emerging technologies.",
+  summary: "Results-driven Service Desk Engineer with 1 year of experience providing L1/L2 IT support for enterprise clients. Proven expertise in troubleshooting Microsoft 365, VPN, network issues, hardware/software problems, and managing incident lifecycles through ServiceNow. Strong track record of maintaining SLA compliance, achieving First Call Resolution targets, and delivering excellent customer service. Self-taught technical enthusiast who built and deployed a full-stack financial news platform independently using modern web technologies. Technical background in Electrical & Electronics Engineering with additional skills in data analytics, SQL, and emerging technologies.",
   competencies: [
     "IT Service Desk Support (L1/L2)",
     "Incident & Request Management",
@@ -35,15 +35,16 @@ export const resumeData = {
   experience: [
     {
       role: "Service Desk Engineer",
-      company: "NRI/1ICT",
-      location: "Remote",
-      period: "July 2022 – September 2025",
+      company: "RK World Wide Logistics",
+      location: "Bengaluru, Karnataka",
+      period: "1 Year Full-time",
       highlights: [
-        "Provided comprehensive L1 IT support for ANZ and global enterprise clients, managing 40-60 tickets daily with 95%+ SLA compliance",
+        "Provided comprehensive L1 IT support enterprise clients, managing tickets daily with SLA compliance",
         "Troubleshot and resolved complex issues related to Microsoft 365 (Outlook, Teams, OneDrive), VPN connectivity, Active Directory, and Windows OS",
-        "Achieved 85% First Call Resolution (FCR) rate through effective problem diagnosis and customer communication",
+        "Achieved good First Call Resolution (FCR) rate through effective problem diagnosis and customer communication",
         "Utilized ServiceNow for complete incident lifecycle management including ticket creation, assignment, tracking, escalation, and resolution",
         "Performed remote troubleshooting using tools like TeamViewer, Remote Desktop, and VNC for hardware, software, and network issues",
+        "Created and maintained technical documentation, knowledge base articles, and troubleshooting guides to improve team efficiency",
         "Collaborated with L2/L3 teams and vendors for escalated issues requiring specialized technical expertise",
         "Provided end-user training on software applications, security best practices, and IT policies",
         "Managed user account provisioning, password resets, and access control through Active Directory",
@@ -54,10 +55,12 @@ export const resumeData = {
       role: "Digital Marketing Specialist (SEO Analyst)",
       company: "Bluetuffy",
       location: "Bengaluru, Karnataka",
-      period: "September 2025 – Present",
+      period: "4 Years Part-time",
       highlights: [
         "Currently managing SEO optimization, keyword research, and analytics while maintaining technical troubleshooting skills",
-        "Leveraging data analytics expertise with Power BI and SQL for performance tracking and insights generation"
+        "Leveraging data analytics expertise with Power BI and SQL for performance tracking and insights generation",
+        "Set up and managed paid ad campaigns on Facebook Ads Manager, including audience targeting, budget allocation, ad creative setup, and performance tracking.",
+        "Monitored key metrics (CTR, CPC, reach) to evaluate campaign effectiveness and make basic optimization decisions."
       ]
     }
   ],
@@ -74,7 +77,10 @@ export const resumeData = {
         "Integrated Supabase for real-time CRUD operations on articles, metadata, stock tagging, and sentiment analysis",
         "Built custom admin tools for content management including rich text formatting, article preview, and publishing workflow",
         "Resolved production deployment issues (404 errors, typography, routing) through systematic debugging and Vercel configuration",
-        "Achieved fast page loads and excellent UX through code splitting, lazy loading, and CDN caching strategies"
+        "Achieved fast page loads and excellent UX through code splitting, lazy loading, and CDN caching strategies",
+        "Demonstrated strong problem-solving by learning React, TypeScript, database design, and cloud deployment independently",
+        "Impact: This project showcases my ability to rapidly learn new technologies, troubleshoot complex technical issues, and deliver production-ready solutions—skills directly transferable to Service Desk roles requiring quick adaptation and technical problem-solving.",
+        "Note: Development was primarily AI-assisted (Trae). Skills listed reflect tools used in the project, not independent coding proficiency."
       ]
     }
   ],
