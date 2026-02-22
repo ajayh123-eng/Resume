@@ -139,9 +139,7 @@ export default function Home() {
                       ))}
                     </div>
                   </div>
-                  <a href={project.github} target="_blank" className="flex items-center gap-1 text-sm font-medium text-slate-600 dark:text-slate-400 hover:text-slate-900 dark:hover:text-slate-100 transition-colors">
-                    <Github size={16} /> Source Code
-                  </a>
+
                 </div>
                 <p className="text-gray-700 dark:text-slate-300 mb-4">{project.description}</p>
                 <ul className="grid grid-cols-1 md:grid-cols-2 gap-x-8 gap-y-2 list-disc list-inside text-sm text-gray-600 dark:text-slate-400">
